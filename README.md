@@ -1,5 +1,3 @@
-# mwl-community-waiting-lists
-Analysis of MWL community health services waiting lists, Oct 2025 to Sep 2026.
 # MWL Community Waiting Lists (Oct 2025 – Sep 2026)
 
 ## Why I did this
